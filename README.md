@@ -6,4 +6,4 @@
 
 [sendmail](https://github.com/Marshy2006/SmallAutomations/tree/main/sendmail)
 
-Whatsappmessager
+[Whatsappmessager](https://github.com/Marshy2006/SmallAutomations/tree/main/Whatsappmessager)
