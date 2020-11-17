@@ -9,3 +9,5 @@
 [sendmail](https://github.com/Marshy2006/SmallAutomations/tree/main/sendmail)
 
 [Whatsappmessager](https://github.com/Marshy2006/SmallAutomations/tree/main/Whatsappmessager)
+
+[autobackup](https://github.com/Marshy2006/SmallAutomations/tree/main/autobackup)
