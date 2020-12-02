@@ -4,12 +4,12 @@
 
 ### Includes:
 
-[gitinitialization](https://github.com/Marshy2006/SmallAutomations/tree/main/gitinitialization)
+| Name                                                                                           | Description                           |
+|------------------------------------------------------------------------------------------------|---------------------------------------|
+| [gitinitialization](https://github.com/Marshy2006/SmallAutomations/tree/main/gitinitialization)| Creates new github repo               | 
+| [sendmail](https://github.com/Marshy2006/SmallAutomations/tree/main/sendmail)                  | email sender experimentation          |  
+| [Whatsappmessager](https://github.com/Marshy2006/SmallAutomations/tree/main/Whatsappmessager)  | Whatsapp messenger using twilio api   |
+| [autobackup](https://github.com/Marshy2006/SmallAutomations/tree/main/autobackup)              | creates copy of a directory to storage|
+| [replacetext](https://github.com/Marshy2006/SmallAutomations/tree/main/replacetext)            | replace strings in plain text file    |
 
-[sendmail](https://github.com/Marshy2006/SmallAutomations/tree/main/sendmail)
 
-[Whatsappmessager](https://github.com/Marshy2006/SmallAutomations/tree/main/Whatsappmessager)
-
-[autobackup](https://github.com/Marshy2006/SmallAutomations/tree/main/autobackup)
-
-[replacetext](https://github.com/Marshy2006/SmallAutomations/tree/main/replacetext)
